@@ -342,6 +342,7 @@ input.form-error {
 }
 
 #butter-header .butter-editor-actions > a {
+  color: #fff;
   text-decoration: none;
 }
 
@@ -1384,16 +1385,6 @@ input.form-error {
   background: -o-linear-gradient(top,  rgba(86,92,104,1) 0%,rgba(79,87,99,1) 9%,rgba(69,69,69,1) 100%);
   background: -ms-linear-gradient(top,  rgba(86,92,104,1) 0%,rgba(79,87,99,1) 9%,rgba(69,69,69,1) 100%);
   background: linear-gradient(top,  rgba(86,92,104,1) 0%,rgba(79,87,99,1) 9%,rgba(69,69,69,1) 100%);
-  -webkit-transition: all  0.1s linear;
-  -moz-transition: all  0.1s linear;
-  -o-transition: all  0.1s linear;
-  -ms-transition: all  0.1s linear;
-  transition: all  0.1s linear;
-  -webkit-transform: scale(1.01, 1.01);
-  -moz-transform: scale(1.01, 1.01);
-  -o-transform: scale(1.01, 1.01);
-  -ms-transform: scale(1.01, 1.01);
-  transform: scale(1.01, 1.01);
 }
 .butter-btn:focus {
   outline: thin dotted #333;
